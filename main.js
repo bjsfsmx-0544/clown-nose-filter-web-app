@@ -36,5 +36,5 @@ function draw() {
 }
 
 function take_snapshot(){    
-  save('myFilterImage.png');
+  save('MiFotoConFiltro.png');
 }
